@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiyu Guo"
-description              : "Zhiyu Guo's homepage. "
+description              : "PHD student in Nara Institute of Science and Technology. Focusing on LLM inference efficiency."
 repository               : "guozhiyu/mypage.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Zhiyu Guo (郭志宇)"
   avatar           : "images/android-chrome-192x192.png"
   bio              : "Nara Institute of Science and Technology"
   location         : "Nara, Japan"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/guozhiyu"
+  github           : "guozhiyu"
   google_plus      :
   keybase          :
   instagram        :
