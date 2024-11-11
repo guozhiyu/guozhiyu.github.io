@@ -26,7 +26,7 @@ Hello, I’m Zhiyu Guo, a PhD student at Nara Institute of Science and Technolog
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -36,21 +36,23 @@ Hello, I’m Zhiyu Guo, a PhD student at Nara Institute of Science and Technolog
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+</div> -->
+- [Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters](https://aclanthology.org/2024.emnlp-main.1178/), **Zhiyu Guo**, Hidetaka Kamigaito, Taro Watanabe, **AACL 2020  Student Research Workshop**
+- [Dependency-Aware Semi-Structured Sparsity of GLU Variants in Large Language Models](https://arxiv.org/abs/2405.01943), **Zhiyu Guo**, Hidetaka Kamigaito, Taro Watanabe, Arxiv 2024
+- [Document-level neural machine translation using bert as context encoder](https://aclanthology.org/2020.aacl-srw.15.pdf), **Zhiyu Guo**, Minh Le Nguyen, **AACL 2020  Student Research Workshop**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.02* Kaggle TensorFlow 2.0 Question Answering. silver medal, Solo Participation, rank:20/1233. 
+- *2020.02* Kaggle Google QUEST Q&A Labeling. silver medal, rank:52/1571. 
+- *2019.09* JAIST Scholarship of M Program (Top 10%). 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.04 - now*, Nara Institute of Science and Technology, Japan.
+- *2018.10 - 2021.03*, Japan Advanced Institute of Science and Technology, Japan. 
+- *2014.09 - 2018.06*, China University of Mining and Technology, China. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.03*, Dependency-Aware Semi-Structured Sparsity of GLU Variants in Large Language Models, Tokyo AI community. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.06 - now*, [Sparticle](https://www.sparticle.com//), Japan.
