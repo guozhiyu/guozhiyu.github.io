@@ -38,7 +38,7 @@ Hello, I’m Zhiyu Guo, a PhD student at Nara Institute of Science and Technolog
 </div>
 </div> -->
 - [Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters](https://aclanthology.org/2024.emnlp-main.1178/), **Zhiyu Guo**, Hidetaka Kamigaito, Taro Watanabe, **Proceedings of EMNLP2024**
-- [Dependency-Aware Semi-Structured Sparsity of GLU Variants in Large Language Models](https://arxiv.org/abs/2405.01943), **Zhiyu Guo**, Hidetaka Kamigaito, Taro Watanabe, Arxiv 2024
+- [Dependency-Aware Semi-Structured Sparsity of GLU Variants in Large Language Models](https://arxiv.org/abs/2405.01943), **Zhiyu Guo**, Hidetaka Kamigaito, Taro Watanabe, TMLR 2025
 - [Document-level neural machine translation using bert as context encoder](https://aclanthology.org/2020.aacl-srw.15.pdf), **Zhiyu Guo**, Minh Le Nguyen, **AACL 2020  Student Research Workshop**
 
 # 🎖 Honors and Awards
